@@ -56,19 +56,26 @@ The Shortcut logs each daily entry into a structured table with the following fi
 | Exercise | Physical activities performed |
 
 
-
 ## Screenshots
-### Shotcut backbone
-![Shortcut running](images/shotcut-screenshot.png)
+### Shortcut backbone
+<p align="center">
+  <img src="images/shotcut-screenshot.png" width="300" alt="Shortcut backbone"/>
+</p>
 
 ### Shortcut running
-![Shortcut running](images/shortcut-flow-start.png)
+<p align="center">
+  <img src="images/shortcut-flow-start.png" width="300" alt="Shortcut running"/>
+</p>
 
 ### Reminder integration
-![Reminder completed](images/reminder-completed.png)
+<p align="center">
+  <img src="images/reminder-completed.png" width="300" alt="Reminder completed"/>
+</p>
 
 ### Data storage (Apple Numbers)
-![Numbers table](images/numbers-table.png)
+<p align="center">
+  <img src="images/numbers-table.png" width="400" alt="Numbers table"/>
+</p>
 
 
 ## Tools and Technologies
