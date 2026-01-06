@@ -32,6 +32,31 @@ These questions are intentionally simple and modular, allowing the user to adapt
 The overall goal is to minimize friction, reinforce daily adherence, and centralize relevant behavioral and routine data in a format suitable for long-term tracking and review.
 
 
+## Data structure
+
+The Shortcut logs each daily entry into a structured table with the following fields:
+
+| Field | Description |
+|------|------------|
+| Date | Entry date |
+| Mood | Self-reported mood |
+| Intensity | Mood intensity level |
+| Energy | Perceived energy level |
+| Sleep hours | Total hours of sleep |
+| Sleep quality | Subjective sleep quality |
+| Reduced sleep | Indicates reduced sleep |
+| Thoughts | Notable thoughts |
+| Behavior | Behavioral changes |
+| Functioning | Daily functioning level |
+| Substances | Substance usage (if any) |
+| Medication | Medication notes |
+| Trigger | Identified triggers |
+| Notes | Free-text observations |
+| Stretching | Morning stretching completed |
+| Exercise | Physical activities performed |
+
+
+
 ## Screenshots
 ### Shortcut flow
 ![Shortcut flow](images/shortcut-flow-start.png)
