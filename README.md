@@ -31,6 +31,18 @@ These questions are intentionally simple and modular, allowing the user to adapt
 
 The overall goal is to minimize friction, reinforce daily adherence, and centralize relevant behavioral and routine data in a format suitable for long-term tracking and review.
 
+
+## Screenshots
+### Shortcut flow
+![Shortcut flow](images/shortcut-flow-start.png)
+
+### Reminder integration
+![Reminder completed](images/reminder-completed.png)
+
+### Data storage (Apple Numbers)
+![Numbers table](images/numbers-table.png)
+
+
 ## Tools and Technologies
 - iOS Shortcuts
 - iCloud
