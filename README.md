@@ -58,8 +58,11 @@ The Shortcut logs each daily entry into a structured table with the following fi
 
 
 ## Screenshots
-### Shortcut flow
-![Shortcut flow](images/shortcut-flow-start.png)
+### Shotcut backbone
+![Shortcut running](images/shotcut-screenshot.png)
+
+### Shortcut running
+![Shortcut running](images/shortcut-flow-start.png)
 
 ### Reminder integration
 ![Reminder completed](images/reminder-completed.png)
